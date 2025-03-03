@@ -1,0 +1,10 @@
+[
+    {
+        "displayName": "海翔 高橋",
+        "vcard": "BEGIN:VCARD\nVERSION:3.0\nFN:海翔 高橋\nN:Kai;;;\nTEL;waid=6285655548594:6285655548594\nEMAIL;TYPE=WORK:aerovoid.id@gmail.com\nADR;TYPE=HOME:;;11 Naitōmachi;Shinjuku City;Tokyo 160-0014;Jepang\nURL;TYPE=WORK:https://www.khaliddesu.my.id\nORG:Science, Technology, Engineering\nTITLE:Science, Technology, Engineering\nNOTE:Love Yourself Don't Love Me.\nEND:VCARD"
+    },
+    {
+        "displayName": "Mora AI",
+        "vcard": "BEGIN:VCARD\nVERSION:3.0\nFN:Mora AI\nN:Mora;;;\nTEL;waid=6285863300706:6285863300706\nEMAIL;TYPE=WORK:mora.ai@example.com\nADR;TYPE=HOME:;;123 Wonderland Ave;Fantasy City;Dreamland 0000;Neverland\nURL;TYPE=WORK:https://www.moraai.my.id\nORG:AI Enthusiast\nTITLE:Assistant\nNOTE:Selalu senang membantu Kakak! Jangan sungkan untuk menghubungi Mora ya! 💖✨\nEND:VCARD"
+    }
+]
